@@ -1,11 +1,6 @@
 import React from 'react'
 
 export const RecipeListComponent = ({ listaRecetas }) => {
-    console.log(listaRecetas)
-    console.log(listaRecetas)
-    const lista = (listaRecetas.recipes);
-    console.log(lista)
-
     return (
         <div>
             {/* {listaRecetas ? */}
